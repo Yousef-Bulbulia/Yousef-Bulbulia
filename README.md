@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 * ⚙️ Software Developer Intern at [Zensurance](https://www.zensurance.com/)
 * 🎓 Pursuing a double major in computer science and mathematics at the University of Toronto
-* 🧑🏽‍💼 President of the UTM [Computer Science Student Community](https://github.com/utm-cssc/website)
+* 🧑🏽‍💼 President of the [UTM Computer Science Student Community](https://github.com/utm-cssc/website)
 * 👨🏽‍🏫 Worked as a teaching assistant
+
+## 🧰 Languages and Technologies
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
@@ -32,4 +34,5 @@ Here are some ideas to get you started:
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
 </div>
