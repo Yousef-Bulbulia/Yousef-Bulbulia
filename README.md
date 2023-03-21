@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 * ⚙️ Software Developer Intern at [Zensurance](https://www.zensurance.com/)
 * 🎓 Pursuing a double major in computer science and mathematics at the University of Toronto
 * 🧑🏽‍💼 President of the [UTM Computer Science Student Community](https://github.com/utm-cssc/website)
-* 👨🏽‍🏫 Worked as a teaching assistant
 
 ## 🧰 Languages and Technologies
 
