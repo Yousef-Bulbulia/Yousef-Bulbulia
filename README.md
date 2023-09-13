@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 * 🎓 Studying computer science at the University of Toronto
-* 🧑🏽‍🏫 Former teaching assistant
 * 🧑🏽‍💼 Former president of the [UTM Computer Science Student Community](https://github.com/utm-cssc/website)
+* 🧑🏽‍🏫 Former teaching assistant
+
 
 📝 Recent Roles
 * ⚙️ Software Developer Intern at [Zensurance](https://www.zensurance.com/) - Summer 2022 to Summer 2023
