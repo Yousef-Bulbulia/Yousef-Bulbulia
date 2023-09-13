@@ -39,6 +39,3 @@ Here are some ideas to get you started:
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 </div>
-
-## 🔎 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Bulbulia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
