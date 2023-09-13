@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* ⚙️ Software Developer Intern at [Zensurance](https://www.zensurance.com/)
-* 🎓 Pursuing a double major in computer science and mathematics at the University of Toronto
-* 🧑🏽‍💼 President of the [UTM Computer Science Student Community](https://github.com/utm-cssc/website)
+* 🎓 Studying computer science at the University of Toronto
+* 🧑🏽‍🏫 Former teaching assistant
+* 🧑🏽‍💼 Former president of the [UTM Computer Science Student Community](https://github.com/utm-cssc/website)
+
+📝 Recent Roles
+* ⚙️ Software Developer Intern at [Zensurance](https://www.zensurance.com/) - Summer 2022 to Summer 2023
 
 ## 🧰 Languages and Technologies
 
