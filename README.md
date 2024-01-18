@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 🎓 Studying computer science at the University of Toronto
+* 🔬 Research assistant [the Matter Lab](https://www.matter.toronto.edu/)
 * 🧑🏽‍💼 Former president of the [UTM Computer Science Student Community](https://github.com/utm-cssc/website)
 * 🧑🏽‍🏫 Former teaching assistant
 
